@@ -10,6 +10,9 @@
   <a href="mailto:jalaj4b@gmail.com">Email</a>
 </div>
 
+&nbsp;
+&nbsp;
+
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋&color=F7F7F7">
