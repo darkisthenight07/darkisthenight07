@@ -1,5 +1,5 @@
 > [!TIP]
-> Have you tried turning it on and off again?
+> Apparently I am what is known as an Unreliable Narrator, though of course if you believe everything you’re told you deserve whatever you get.
 
 <h1 align="center">
   Hey! I'm Jalaj. 
