@@ -12,6 +12,7 @@
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 <div align="center">
     <picture>
@@ -20,5 +21,3 @@
       <img alt="Thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋">
     </picture>
 </div>
-
-&nbsp;
