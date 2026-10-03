@@ -1,16 +1,21 @@
-## Hi there 👋
+> [!TIP]
+> Have you tried turning it on and off again?
 
-<!--
-**darkisthenight07/darkisthenight07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey! I'm Jalaj. 
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/jalaj-bhadouria/">LinkedIn</a> • 
+  <a href="mailto:jalaj4b@gmail.com">Email</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋&color=F7F7F7">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋&color=000000">
+      <img alt="Thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋">
+    </picture>
+</div>
+
+&nbsp;
